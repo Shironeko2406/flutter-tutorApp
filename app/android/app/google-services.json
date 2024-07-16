@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "640036381047",
+    "project_id": "imageupdatedb",
+    "storage_bucket": "imageupdatedb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640036381047:android:2909c8dd574af2c40b8172",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc_pWzDCAx7Gjp_y2HvpIkDZCNsO9HI-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640036381047:android:35449f9a8c669b750b8172",
+        "android_client_info": {
+          "package_name": "com.example.tutorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDc_pWzDCAx7Gjp_y2HvpIkDZCNsO9HI-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
